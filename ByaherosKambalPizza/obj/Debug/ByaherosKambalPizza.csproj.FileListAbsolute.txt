@@ -1,0 +1,85 @@
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\ByaherosKambalPizza.exe.config
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\ByaherosKambalPizza.exe
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\ByaherosKambalPizza.pdb
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.createorder.resources
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.Form1.resources
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.orderhistory.resources
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.Properties.Resources.resources
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.exe
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.pdb
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.addproduct.resources
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.Form2.resources
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csproj.CopyComplete
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Trial\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\Guna.UI2.dll
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\ByaherosKambalPizza.exe.config
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\ByaherosKambalPizza.exe
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\ByaherosKambalPizza.pdb
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\Guna.UI2.dll
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.addproduct.resources
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.createorder.resources
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.Form1.resources
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.Form2.resources
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.orderhistory.resources
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.Properties.Resources.resources
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csproj.CopyComplete
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.exe
+C:\Users\USER\Desktop\others\Trial\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.pdb
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\ByaherosKambalPizza.exe.config
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\ByaherosKambalPizza.exe
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\ByaherosKambalPizza.pdb
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\Guna.UI2.dll
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.addproduct.resources
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.createorder.resources
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.Form1.resources
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.Form2.resources
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.orderhistory.resources
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.Properties.Resources.resources
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csproj.CopyComplete
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.exe
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.pdb
+C:\Users\USER\Desktop\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.CartFrm.resources
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\ByaherosKambalPizza.exe.config
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\ByaherosKambalPizza.exe
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\ByaherosKambalPizza.pdb
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\bin\Debug\Guna.UI2.dll
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csproj.AssemblyReference.cache
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.addproduct.resources
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.CartFrm.resources
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.createorder.resources
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.Form1.resources
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.Form2.resources
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.orderhistory.resources
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.Properties.Resources.resources
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csproj.GenerateResource.cache
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csproj.CoreCompileInputs.cache
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\Byaheros.034A918F.Up2Date
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.exe
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.pdb
+C:\Users\Fzkn4\Downloads\ByaherosKambalPizza\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.to_payment.resources
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.exe
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.pdb
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\bin\Debug\ByaherosKambalPizza.exe.config
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\bin\Debug\ByaherosKambalPizza.exe
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\bin\Debug\ByaherosKambalPizza.pdb
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\bin\Debug\Guna.UI2.dll
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.addproduct.resources
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.CartFrm.resources
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.createorder.resources
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.Form1.resources
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.Form2.resources
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.orderhistory.resources
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.Properties.Resources.resources
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.to_payment.resources
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ByaherosKambalPizza new\ByaherosKambalPizza\obj\Debug\ByaherosKambalPizza.csproj.CopyComplete
